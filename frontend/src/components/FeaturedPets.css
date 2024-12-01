@@ -1,0 +1,13 @@
+.featured-pets {
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .pet-list {
+    display: flex;
+    justify-content: space-around;
+  }
+ 
+ 
+
+  

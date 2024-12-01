@@ -1,0 +1,17 @@
+.services {
+    padding: 20px;
+  }
+  
+  .service-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .service {
+    max-width: 200px;
+  }
+  
+  .service h3 {
+    color: #ff6f61;
+  }
+  

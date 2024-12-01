@@ -1,0 +1,21 @@
+.hero {
+    background: url('./veterinarian\ talking\ to\ labrador\ owner\ about\ pet\ obesity.png') no-repeat center center/cover;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .cta {
+    width: 150px ;
+    height: 45px;
+    padding: 10px 20px;
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .cta:hover {
+    background-color: #ff8a80;
+  }
+  
